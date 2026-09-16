@@ -1,0 +1,24 @@
+{
+  "name": "claude-plan-skill",
+  "owner": {
+    "name": "Hagen Drees",
+    "email": "Hagen@drees-netz.de"
+  },
+  "metadata": {
+    "description": "Marketplace for the plan skill: a structured planning and execution workflow for software tasks.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "plan",
+      "source": "./plugins/plan",
+      "description": "Structured planning and execution workflow for software tasks: create plans, break them into phases and checkbox tasks, track progress, and record notes and findings per task.",
+      "category": "productivity",
+      "tags": [
+        "planning",
+        "task-management",
+        "workflow"
+      ]
+    }
+  ]
+}

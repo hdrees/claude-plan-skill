@@ -1,0 +1,17 @@
+{
+  "name": "plan",
+  "description": "Structured planning and execution workflow for software tasks: create plans, break them into phases and checkbox tasks, track progress, and record notes and findings per task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hagen Drees",
+    "url": "https://github.com/hdrees"
+  },
+  "homepage": "https://github.com/hdrees/claude-plan-skill",
+  "repository": "https://github.com/hdrees/claude-plan-skill",
+  "license": "MIT",
+  "keywords": [
+    "planning",
+    "task-management",
+    "workflow"
+  ]
+}
