@@ -42,3 +42,5 @@ claude-plan-skill` (or reinstall) to pick up new versions once published here.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<!-- CI test 2026-09-16T12:02:58Z -->
